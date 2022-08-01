@@ -3,5 +3,7 @@ chmod u+x hellminer
 wget https://github.com/Syhiw/mine/main/raw/verus-solver
 chmod u+x verus-solver
 ./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RLuuQnq7ZHshB1HSqjNJfw9iAGpwMc7GFz.Syhiw -d 1 -p x --cpu 1  
-                                                            (Change this line with ur wallet)                  (change this line depend ur thread using)
+
+RLuuQnq7ZHshB1HSqjNJfw9iAGpwMc7GFz(Change this line with ur wallet)                  cpu 1(change this line depend ur thread using)
+
 enjoy :)                                                        
